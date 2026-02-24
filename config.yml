@@ -1,0 +1,97 @@
+# Galaxy Profile README Configuration
+
+username: eduardoapfranco
+
+profile:
+  name: "Eduardo Franco"
+  tagline: "Full Stack Engineer | Web3 Builder | Scalable Systems Architect"
+  company: "AuraLabs"
+  location: "Brazil 🇧🇷"
+  bio: |
+    I build scalable digital ecosystems.
+    From high-performance APIs to DeFi platforms and automation systems,
+    I turn ideas into production-ready products.
+  philosophy: '"Consistency compounds. Build. Ship. Evolve."'
+
+social:
+  email: "eduardoapfranco@gmail.com"
+  linkedin: "eduardoapfjsantos"
+  website: "https://auralabs.cloud"
+
+galaxy_arms:
+  - name: "Frontend Systems"
+    color: "dendrite_violet"
+    items:
+      - "TypeScript"
+      - "React"
+      - "Next.js"
+      - "TailwindCSS"
+      - "Web3.js"
+      - "Ethers.js"
+
+  - name: "Backend Architecture"
+    color: "synapse_cyan"
+    items:
+      - ".NET 8"
+      - "C#"
+      - "Node.js"
+      - "PostgreSQL"
+      - "Redis"
+      - "GraphQL"
+      - "Java"
+      - "REST APIs"
+
+  - name: "Web3 & Infrastructure"
+    color: "axon_amber"
+    items:
+      - "Solidity"
+      - "BSC"
+      - "DeFi Protocols"
+      - "Docker"
+      - "GitHub Actions"
+      - "AWS"
+      - "CI/CD"
+
+projects:
+  - repo: "eduardoapfranco/aurabook-deploy"
+    arm: 1
+    description: "Digital platform built to streamline business operations with scalable backend architecture."
+
+  - repo: "eduardoapfranco/auraleads-backend"
+    arm: 0
+    description: "Automation-driven lead generation system focused on performance, scale and conversion."
+
+  - repo: "eduardoapfranco/DudsCrypto"
+    arm: 2
+    description: "Web3 and crypto infrastructure project focused on tokenization, liquidity and DeFi systems."
+
+  - repo: "eduardoapfranco/galaxy-profile"
+    arm: 0
+    description: "Animated GitHub profile generator powered by real-time GraphQL telemetry."
+
+theme:
+  void: "#060912"
+  nebula: "#101726"
+  star_dust: "#1c2638"
+  synapse_cyan: "#00e1ff"
+  dendrite_violet: "#9f7aea"
+  axon_amber: "#ff8c42"
+  text_bright: "#f7fafc"
+  text_dim: "#a0aec0"
+  text_faint: "#718096"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
