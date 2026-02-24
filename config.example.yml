@@ -10,24 +10,23 @@
 #   python -m generator.main --demo
 
 # Your GitHub username (required)
-username: galaxy-dev
+username: eduardoapfranco
 
 # Profile information displayed in the galaxy header
 profile:
-  name: "Nyx Orion"
+  name: "Eduardo Franco"
   tagline: "Full Stack Developer & Open Source Explorer"
-  company: "Stellar Labs"
-  location: "San Francisco, CA"
+  company: "DUDS"
+  location: "BR"
   bio: |
-    Building tools that make developers' lives easier.
-    Passionate about distributed systems, developer experience, and the open-source ecosystem.
+    Building is my passion.
   philosophy: '"The best code is the code that empowers others."'
 
 # Social links displayed at the bottom of the profile
 social:
-  email: "nyx@stellarlabs.dev"
-  linkedin: "nyxorion"
-  website: "https://nyxorion.dev"
+  email: "eduardoapfranco@gmail.com"
+  linkedin: "eduardoapfjsantos"
+  website: "https://auralabs.cloud"
 
 # Galaxy arms represent your core focus areas
 # Each arm spirals out from the center with its own color and tech items
@@ -42,7 +41,7 @@ galaxy_arms:
   - name: "Backend"
     color: "synapse_cyan"
     items:
-      - "Python"
+      - ".NET"
       - "Node.js"
       - "PostgreSQL"
   - name: "DevOps"
